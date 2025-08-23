@@ -17,10 +17,23 @@ Work experience
   * Optimized monitoring of pests & disease on tropical crops from statistical analyses
   * Co-leading the task force on _Fusarium oxysporum f. sp. cubense_ tropical race 4 of the French Ministry of Agriculture ([website, in Frenc](https://plateforme-esv.fr/thematiques/GTQFocTR4))
 
+Examples of diseases studied: 
+Cassava witches’ broom disease, an emerging threat to cassava cultivation in South-America, especially in French Guyana and Brazil:
+
+
+<img src="https://github.com/user-attachments/assets/3e16397e-c461-43f7-be74-7e34a898fa3d" width="200">
+<img src="https://github.com/user-attachments/assets/55dff3df-ffb9-458f-863e-9c8955d3095a" width="200">
+
+
+Other missions include statistics and modeling courses, for example here at Makerere University (December 2024):
+
+<img src="https://github.com/user-attachments/assets/f4acf8ed-38f3-4969-9cfa-0764e9241203" width="500">
+
+
 * 2023-2024: Postdoctoral researcher in agronomy
   * Inrae, in the [MIA Paris Saclay](https://mia-ps.inrae.fr/) lab
   * Development of crop yield forecasting models, application to soybean cultivated in monocrop or intercropped with maize
-  * Self-suffiency scenarios of soybean in the European Union 
+  * Self-sufficiency scenarios of soybean in the European Union 
   * Supervisors: David Makowski (Inrae) and Nicolas Guilpart (AgroParisTech)
 
 * 2020-2023: Postdoctoral researcher in epidemiology and public health
@@ -42,6 +55,7 @@ Education
 * Ph.D in Agricultural Sciences, AgroParisTech, 2017-2019 
 * Master degree in Agricultural Sciences - Specialisation in Agroecology, UniLaSalle Beauvais, 2011-2016
 
+<!-- 
 Skills
 ======
 * Skill 1
@@ -51,7 +65,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
