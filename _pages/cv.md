@@ -9,29 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 2024: Researcher in plant epidemiology 
+  * [Cirad](https://www.cirad.fr/en), the French agricultural research and cooperation organization working for the sustainable development of tropical and Mediterranean regions
+  * Team: [Forisk](https://umr-phim.cirad.fr/recherche/comprendre-les-epidemies-dans-les-champs-prism/equipe-forisk), in the [Plant Health Institute of Montpellier](https://umr-phim.cirad.fr/) lab
+  * Optimized monitoring of pests & disease on tropical crops from statistical analyses
+  * Co-leading the task force on _Fusarium oxysporum f. sp. cubense_ tropical race 4 of the French Ministry of Agriculture ([website, in Frenc](https://plateforme-esv.fr/thematiques/GTQFocTR4))
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-2024: Postdoctoral researcher in agronomy
+  * Inrae, in the [MIA Paris Saclay](https://mia-ps.inrae.fr/) lab
+  * Development of crop yield forecasting models, application to soybean cultivated in monocrop or intercropped with maize
+  * Self-suffiency scenarios of soybean in the European Union 
+  * Supervisors: David Makowski (Inrae) and Nicolas Guilpart (AgroParisTech)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2020-2023: Postdoctoral researcher in epidemiology and public health
+  * Inserm, UMR CRESS
+  * Application of innovative methods of data analysis (functional data analysis, machine learning) to investigate determinants and profiles of physical activity and sedentary behavior from objectively-assessed movement measurements.
+  * Data from Whitehall II cohort study.
+  * Supervisors: Séverine Sabia (Inserm) and Mohamed Amine Benadjaoud (IRSN)
+ 
+* 2017-2020: Ph.D candidate in plant health
+  * Inrae, in the [Agronomie](https://agronomie.versailles-saclay.hub.inrae.fr/productions/theses-et-rapports/these-mathilde-chen) lab
+  * Founded by [Acta - les instituts techniques agricoles](https://www.acta.asso.fr/) and [#Digitag](https://www.hdigitag.fr/la-recherche/les-projets-digitag/doctorants/these-soutenue-mathilde-chen)
+  * Analysis of the risk of grape downy mildew in Bordeaux vineyards using various technics (survival models, generalized linear mixed models, machine learning algorithms, expert probabilistic elicitation).
+  * Took part to several hackathons in agriculture as project manager.
+
+
+
+Education
+======
+* Ph.D in Agricultural Sciences, AgroParisTech, 2017-2019 
+* Master degree in Agricultural Sciences - Specialisation in Agroecology, UniLaSalle Beauvais, 2011-2016
+
 Skills
 ======
 * Skill 1
@@ -41,6 +51,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -61,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
