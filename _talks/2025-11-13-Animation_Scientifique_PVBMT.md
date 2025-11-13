@@ -8,6 +8,8 @@ date: 2025-11-13
 location: "Saint-Pierre de la Réunion, La Réunion"
 ---
 
+Retours d'expérience sur l'utilisation de méthodes statistiques dans deux domaines d'application : la santé des plantes et épidémiologie humaine 
+
 ➡️ **Résumé :** Cette présentation illustre l’apport des méthodes de modélisation statistique dans l’analyse des phénomènes épidémiologiques dans deux 
 contextes distincts : la santé humaine et la santé des végétaux. À travers deux études de cas, nous illustrerons comment un outil analytique permet de 
 décrire la dynamique de transmission, d’identifier des facteurs de risque et d’améliorer la compréhension de processus infectieux dans des environnements 
