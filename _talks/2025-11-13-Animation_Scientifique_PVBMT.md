@@ -2,7 +2,7 @@
 title: "Modélisation statistique en épidémiologie : regards croisés entre santé humaine et santé des végétaux"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2025-11-13-AnimPVBMT
 venue: "Cirad, Unité PVBMT"
 date: 2025-11-13
 location: "Saint-Pierre de la Réunion, La Réunion"
